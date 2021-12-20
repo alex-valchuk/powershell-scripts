@@ -1,0 +1,1 @@
+Powershell.exe -executionPolicy remoteSigned -File CreateCleaningTask.ps1
